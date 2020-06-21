@@ -1,0 +1,23 @@
+.footerSection{
+    margin-top: 100px;
+    background-color: black;
+    color: rgb(214, 214, 214);
+    padding-top: 50px;
+}
+
+.footerSection img{
+    width: 200px;
+    padding: 20px;
+    float: left;
+    
+}
+
+.footerSection ul{
+    text-align: left;
+    list-style-type:none;
+}
+
+.copyrightSection{
+    text-align: left;
+    color: gray;
+}

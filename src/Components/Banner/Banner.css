@@ -1,0 +1,16 @@
+.banner img{
+    width: 100%;
+    margin-top: 50px;
+}
+.text{
+    position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+
+}
+.banner{
+    position: relative;
+    text-align: center;
+}

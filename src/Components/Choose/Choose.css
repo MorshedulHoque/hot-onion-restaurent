@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+}
+.box img{
+    color: red;
+}
+.card{
+    border: none;
+}
+.box-text{
+    text-align: left;
+    margin-left: 20px;
+}
